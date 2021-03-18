@@ -1,0 +1,23 @@
+:root {
+    --border-radius: 5px;
+    --spacing-small: 10px;
+    --spacing-medium: 15px;
+    --spacing-large: 20px;
+    --add-btn-gradient: linear-gradient(to right, #ff608f, #ff306f, #ff0957);
+    --addToCart-btn-gradient: linear-gradient(to right, #e5e5e5, #d7d7d7, #cbcbcb);
+    --add-btn-hover: #ff2863;
+    --background-light: #e7e7e7;
+    --main-font-color: #424040;
+    }
+
+*{
+    box-sizing: border-box;
+    }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    line-height: 2;
+    background-color: white;
+    }
